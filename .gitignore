@@ -1,0 +1,6 @@
+.dmypy.json
+**/__pycache__/**
+.ropeproject/*
+pdm.lock 
+__pypackages__/*
+.pdm.toml
